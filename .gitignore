@@ -1,0 +1,13 @@
+# Captured output (don't commit personal snapshots/recordings)
+IR_snapshot_*.png
+IR_rec_*.mp4
+*.wav
+
+# The demo video IR_Sound_Light_Tool.mp4 (~14 MB) IS committed on purpose.
+# Any larger media is better hosted via GitHub Releases or Git LFS.
+
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
